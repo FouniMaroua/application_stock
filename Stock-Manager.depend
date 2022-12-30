@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1672419112 source:c:\users\dell\documents\projet\stock-manager\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"produit.h"
+
+1672419112 c:\users\dell\documents\projet\stock-manager\produit.h
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1672419112 source:c:\users\dell\documents\projet\stock-manager\produit.c
+	<stdio.h>
+	<stdbool.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	"produit.h"
+
